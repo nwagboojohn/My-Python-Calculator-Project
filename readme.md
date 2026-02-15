@@ -70,6 +70,6 @@ Contributions are welcome! Please follow these steps to contribute:
 
 
 <!-- ''' Contact ''' -->
-### Contact 
+## Contact 
 
 For any questions or feedback, please contact me at [nemejohn62@gmail.com].
