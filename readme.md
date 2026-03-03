@@ -1,10 +1,10 @@
 <!-- Hey, in this project I created a simple calculator with GUI using python -->
 
 <!-- ''' PROJECT DISCRIPTION ''' -->
-## PROJECT DISCRIPTION 
+## PROJECT DISCRIPTION  
 
 This is a simple calculator application built using Python GUI (Graphical User Interface) Tkinter. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator features a clean and intuitive user interface, making it easy for anyone to use.
-
+ 
 <!-- ''' FEATURES ''' -->
 ## FEATURES
 
