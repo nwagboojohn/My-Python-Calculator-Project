@@ -8,7 +8,7 @@ This is a simple calculator application built using Python GUI (Graphical User I
 <!-- ''' FEATURES ''' -->
 ## FEATURES
 
-* Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
+* Perform basic arithmetic operations: addition, subtraction, multiplication, and division. 
 
 * Clear button to reset the calculator.
 
