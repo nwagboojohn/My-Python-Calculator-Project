@@ -72,4 +72,4 @@ Contributions are welcome! Please follow these steps to contribute:
 <!-- ''' Contact ''' -->
 ## Contact 
 
-For any questions or feedback, please contact me at [nemejohnj 6 2@gmail.com].
+For any questions or feedback, please contact me at [nemejohnj62@gmail.com].
