@@ -4,7 +4,7 @@
 ## PROJECT DISCRIPTION   
   
 This is a simple calculator application built using Python GUI (Graphical User Interface) Tkinter. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator features a clean and intuitive user interface, making it easy for anyone to use.
- 
+  
 <!-- ''' FEATURES ''' -->
 ## FEATURES
 
@@ -72,4 +72,4 @@ Contributions are welcome! Please follow these steps to contribute:
 <!-- ''' Contact ''' -->
 ## Contact 
 
-For any questions or feedback, please contact me at [nemejohn62@gmail.com].
+For any questions or feedback, please contact me at [nemejohnj 62@gmail.com].
