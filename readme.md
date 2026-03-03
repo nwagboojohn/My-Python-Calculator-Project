@@ -43,7 +43,7 @@ cd python_calculator_project
 <!-- ''' Usage ''' -->
 ## Usage 
 
-* Enter the numbers using the numeric buttons.
+* Enter the numbers using the numeric buttons. 
 
 * Use the operator buttons (+, -, ×, ÷, %) to perform calculations.
 
